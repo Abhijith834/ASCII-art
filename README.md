@@ -21,3 +21,7 @@ This Python project captures a live camera feed, converts it into ASCII art, and
 
    ```bash
    pip install -r requirements.txt
+
+### Turning
+- The number of characters per each line can be adjusted in the "ascii_width" on line 9
+- The frame size can be changed by altering "ascii_frame" on line 66
